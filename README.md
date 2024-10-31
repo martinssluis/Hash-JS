@@ -29,3 +29,4 @@ Para entender mais sobre como os hashes funcionam e onde são aplicados, veja as
 - [O que é um hash e como funciona?](https://nordvpn.com/pt/blog/o-que-e-hash/)
 - [O que é um HASH? Direto ao Ponto](https://youtu.be/b7PQuMn74eo?si=UdyxtsSVFzAF8ZmC)
 - [O que é um hash? (bitcoin / blockchain)](https://youtu.be/sCWeeAPIFoQ?si=i_kI_kp75UCx1HYx)
+- [Para praticar e entender melhor](https://andersbrownworth.com/blockchain/hash)
